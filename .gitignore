@@ -25,3 +25,14 @@ hs_err_pid*
 .mvn/wrapper
 *mvnw*
 *mvnw.cmd*
+
+/.idea/*
+/application.log
+/logs/application.log
+/project/project/target/*
+/project/target/*
+/target/*
+*.iml
+/target/
+
+.idea/
